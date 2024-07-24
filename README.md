@@ -8,9 +8,8 @@
 - Usage
 - HTML Setup:
 - Add a file input element and a container for the image preview in your HTML file.
+- input field id should be 'fileInput '
+- image preview for  div container id should be 'preview '
 
-
-- <input type="file" id="fileInput" />
-- <div id="preview"></div>
  
 
